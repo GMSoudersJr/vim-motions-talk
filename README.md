@@ -10,11 +10,11 @@ mkdir fcc-talks && cd fcc-talks
 ```bash
 git clone git@github.com:GMSoudersJr/vim-motions-talk.git
 ```
-5. Change into the vim-motions-talk directory:
+4. Change into the vim-motions-talk directory:
 ```bash
 cd vim-motions-talk
 ```
-6. Open Vim or Neovim
+5. Open Vim or Neovim
 ```bash
 vim .
 ```
@@ -22,7 +22,7 @@ OR
 ```bash
 nvim .
 ```
-7. Remove all of the above:
+6. Remove all of the above:
 ```bash
 cd ../../ && rm -rf fcc-talks
 ```

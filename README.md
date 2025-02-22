@@ -1,4 +1,4 @@
-# vim-motions-talk
+# Gerald's vim-motions-talk
 clone this repo to follow along with Gerald's Vim Motions Talk
 
 1. Open your terminal
@@ -18,10 +18,11 @@ cd vim-motions-talk
 ```bash
 vim .
 ```
+OR
 ```bash
 nvim .
 ```
 7. Remove all of the above:
 ```bash
-cd ../ && rm -rf vim-motions-talk && cd ../ && rm -rf fcc-talks
+cd ../../ && rm -rf fcc-talks
 ```
